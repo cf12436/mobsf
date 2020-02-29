@@ -1,0 +1,1401 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-26 11:12+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\templates\base.html:59 .\templates\base_top_only.html:59
+#: .\templates\general\index.html:129 .\templates\general\recent.html:21
+msgid "Recent Scans"
+msgstr "最近的扫描"
+
+#: .\templates\base.html:60 .\templates\base_top_only.html:60
+#: .\templates\general\index.html:129
+#: .\templates\pdf\android_binary_analysis.pdf.html:10
+#: .\templates\static_analysis\android_binary_analysis.html:27
+msgid "Static Analysis"
+msgstr ""
+
+#: .\templates\base.html:61 .\templates\base_top_only.html:61
+#: .\templates\general\index.html:129
+msgid "Dynamic Analysis"
+msgstr ""
+
+#: .\templates\base.html:62 .\templates\base_top_only.html:62
+#: .\templates\general\index.html:129
+msgid "API Docs"
+msgstr ""
+
+#: .\templates\base.html:63 .\templates\base_top_only.html:63
+#: .\templates\general\index.html:129
+msgid "About"
+msgstr ""
+
+#: .\templates\base.html:89 .\templates\base_top_only.html:103
+#: .\templates\general\index.html:130
+msgid "Mobile Security Framework - MobSF"
+msgstr ""
+
+#: .\templates\base.html:89 .\templates\base_top_only.html:103
+msgid "OpenSecurity"
+msgstr ""
+
+#: .\templates\base_top_only.html:103 .\templates\general\about.html:17
+msgid "Ajin Abraham"
+msgstr ""
+
+#: .\templates\general\about.html:12
+msgid "About Mobile Security Framework"
+msgstr "关于移动安全框架"
+
+#: .\templates\general\about.html:15
+msgid ""
+"Mobile Security Framework (MobSF) is an intelligent, all-in-one open source "
+"mobile application (Android/iOS/Windows) automated pen-testing framework "
+"capable of performing static and dynamic analysis. It can be used for "
+"effective and fast security analysis of Android, iOS and Windows mobile "
+"Applications and supports both binaries (APK, IPA & APPX ) and zipped source "
+"code.<br/><br/> MobSF can also perform Web API Security testing with its API "
+"Fuzzer that can do Information Gathering, analyze Security Headers, identify "
+"Mobile API specific vulnerabilities like XXE, SSRF, Path Traversal, IDOR, "
+"and other logical issues related to Session and API Rate Limiting."
+msgstr ""
+
+#: .\templates\general\about.html:17
+msgid "Author"
+msgstr "作者"
+
+#: .\templates\general\about.html:18
+msgid "Core Developers"
+msgstr ""
+
+#: .\templates\general\about.html:19
+msgid "Dominik Schlecht"
+msgstr ""
+
+#: .\templates\general\about.html:20
+msgid "Matan Dobrushin"
+msgstr ""
+
+#: .\templates\general\about.html:21
+msgid "Vincent Nadal"
+msgstr ""
+
+#: .\templates\general\apidocs.html:11
+msgid "REST API Docs"
+msgstr ""
+
+#: .\templates\general\apidocs.html:22
+msgid "Upload a File"
+msgstr ""
+
+#: .\templates\general\apidocs.html:23
+msgid "Scan a File"
+msgstr ""
+
+#: .\templates\general\apidocs.html:24 .\templates\general\apidocs.html:459
+msgid "Display Recent Scans"
+msgstr ""
+
+#: .\templates\general\apidocs.html:25
+msgid "Delete a Scan"
+msgstr ""
+
+#: .\templates\general\apidocs.html:26
+msgid "Download PDF Report"
+msgstr ""
+
+#: .\templates\general\apidocs.html:27
+msgid "Generate JSON Report"
+msgstr ""
+
+#: .\templates\general\apidocs.html:28
+msgid "View Source Files"
+msgstr ""
+
+#: .\templates\general\apidocs.html:30
+msgid "Upload File API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:31
+msgid "API to upload a file. Supported file types are apk, zip, ipa and appx."
+msgstr ""
+
+#: .\templates\general\apidocs.html:34 .\templates\general\apidocs.html:97
+#: .\templates\general\apidocs.html:184 .\templates\general\apidocs.html:247
+#: .\templates\general\apidocs.html:316 .\templates\general\apidocs.html:385
+#: .\templates\general\apidocs.html:463
+#: .\templates\pdf\android_binary_analysis.pdf.html:752
+#: .\templates\pdf\android_binary_analysis.pdf.html:826
+#: .\templates\static_analysis\android_binary_analysis.html:1072
+msgid "URL"
+msgstr ""
+
+#: .\templates\general\apidocs.html:37 .\templates\general\apidocs.html:100
+#: .\templates\general\apidocs.html:187 .\templates\general\apidocs.html:250
+#: .\templates\general\apidocs.html:319 .\templates\general\apidocs.html:388
+#: .\templates\general\apidocs.html:466
+msgid "Method"
+msgstr ""
+
+#: .\templates\general\apidocs.html:40 .\templates\general\apidocs.html:103
+#: .\templates\general\apidocs.html:190 .\templates\general\apidocs.html:253
+#: .\templates\general\apidocs.html:322 .\templates\general\apidocs.html:391
+#: .\templates\general\apidocs.html:469
+msgid "Header"
+msgstr ""
+
+#: .\templates\general\apidocs.html:43 .\templates\general\apidocs.html:106
+#: .\templates\general\apidocs.html:193 .\templates\general\apidocs.html:256
+#: .\templates\general\apidocs.html:325 .\templates\general\apidocs.html:394
+#: .\templates\general\apidocs.html:472
+msgid "Data Params"
+msgstr ""
+
+#: .\templates\general\apidocs.html:49 .\templates\general\apidocs.html:112
+#: .\templates\general\apidocs.html:199 .\templates\general\apidocs.html:262
+#: .\templates\general\apidocs.html:331 .\templates\general\apidocs.html:400
+#: .\templates\general\apidocs.html:478
+msgid "Param Name"
+msgstr ""
+
+#: .\templates\general\apidocs.html:50 .\templates\general\apidocs.html:113
+#: .\templates\general\apidocs.html:200 .\templates\general\apidocs.html:263
+#: .\templates\general\apidocs.html:332 .\templates\general\apidocs.html:401
+#: .\templates\general\apidocs.html:479
+msgid "Param Value"
+msgstr ""
+
+#: .\templates\general\apidocs.html:51 .\templates\general\apidocs.html:114
+#: .\templates\general\apidocs.html:201 .\templates\general\apidocs.html:264
+#: .\templates\general\apidocs.html:333 .\templates\general\apidocs.html:402
+#: .\templates\general\apidocs.html:480
+msgid "Required"
+msgstr ""
+
+#: .\templates\general\apidocs.html:56 .\templates\general\apidocs.html:412
+msgid "file"
+msgstr ""
+
+#: .\templates\general\apidocs.html:58 .\templates\general\apidocs.html:121
+#: .\templates\general\apidocs.html:126 .\templates\general\apidocs.html:131
+#: .\templates\general\apidocs.html:166 .\templates\general\apidocs.html:208
+#: .\templates\general\apidocs.html:271 .\templates\general\apidocs.html:276
+#: .\templates\general\apidocs.html:340 .\templates\general\apidocs.html:345
+#: .\templates\general\apidocs.html:368 .\templates\general\apidocs.html:374
+#: .\templates\general\apidocs.html:409 .\templates\general\apidocs.html:414
+#: .\templates\general\apidocs.html:419
+msgid "Yes"
+msgstr ""
+
+#: .\templates\general\apidocs.html:65
+msgid "Success Responss"
+msgstr ""
+
+#: .\templates\general\apidocs.html:67 .\templates\general\apidocs.html:75
+#: .\templates\general\apidocs.html:81 .\templates\general\apidocs.html:145
+#: .\templates\general\apidocs.html:162 .\templates\general\apidocs.html:168
+#: .\templates\general\apidocs.html:217 .\templates\general\apidocs.html:225
+#: .\templates\general\apidocs.html:231 .\templates\general\apidocs.html:285
+#: .\templates\general\apidocs.html:293 .\templates\general\apidocs.html:299
+#: .\templates\general\apidocs.html:354 .\templates\general\apidocs.html:362
+#: .\templates\general\apidocs.html:368 .\templates\general\apidocs.html:428
+#: .\templates\general\apidocs.html:436 .\templates\general\apidocs.html:442
+#: .\templates\general\apidocs.html:501 .\templates\general\apidocs.html:521
+#: .\templates\general\apidocs.html:527
+msgid "Code"
+msgstr ""
+
+#: .\templates\general\apidocs.html:68 .\templates\general\apidocs.html:76
+#: .\templates\general\apidocs.html:82 .\templates\general\apidocs.html:146
+#: .\templates\general\apidocs.html:163 .\templates\general\apidocs.html:169
+#: .\templates\general\apidocs.html:218 .\templates\general\apidocs.html:226
+#: .\templates\general\apidocs.html:232 .\templates\general\apidocs.html:286
+#: .\templates\general\apidocs.html:294 .\templates\general\apidocs.html:300
+#: .\templates\general\apidocs.html:355 .\templates\general\apidocs.html:363
+#: .\templates\general\apidocs.html:369 .\templates\general\apidocs.html:429
+#: .\templates\general\apidocs.html:437 .\templates\general\apidocs.html:443
+#: .\templates\general\apidocs.html:502 .\templates\general\apidocs.html:522
+#: .\templates\general\apidocs.html:528
+msgid "Content-Type"
+msgstr ""
+
+#: .\templates\general\apidocs.html:69 .\templates\general\apidocs.html:77
+#: .\templates\general\apidocs.html:83 .\templates\general\apidocs.html:147
+#: .\templates\general\apidocs.html:164 .\templates\general\apidocs.html:170
+#: .\templates\general\apidocs.html:219 .\templates\general\apidocs.html:227
+#: .\templates\general\apidocs.html:233 .\templates\general\apidocs.html:287
+#: .\templates\general\apidocs.html:295 .\templates\general\apidocs.html:301
+#: .\templates\general\apidocs.html:356 .\templates\general\apidocs.html:364
+#: .\templates\general\apidocs.html:370 .\templates\general\apidocs.html:430
+#: .\templates\general\apidocs.html:438 .\templates\general\apidocs.html:444
+#: .\templates\general\apidocs.html:503 .\templates\general\apidocs.html:523
+#: .\templates\general\apidocs.html:529
+msgid "Content"
+msgstr ""
+
+#: .\templates\general\apidocs.html:73 .\templates\general\apidocs.html:160
+#: .\templates\general\apidocs.html:223 .\templates\general\apidocs.html:291
+#: .\templates\general\apidocs.html:360 .\templates\general\apidocs.html:434
+#: .\templates\general\apidocs.html:519
+msgid "Error Response"
+msgstr ""
+
+#: .\templates\general\apidocs.html:79 .\templates\general\apidocs.html:297
+#: .\templates\general\apidocs.html:366 .\templates\general\apidocs.html:440
+#: .\templates\general\apidocs.html:525
+msgid "OR"
+msgstr ""
+
+#: .\templates\general\apidocs.html:87 .\templates\general\apidocs.html:174
+#: .\templates\general\apidocs.html:237 .\templates\general\apidocs.html:305
+#: .\templates\general\apidocs.html:448 .\templates\general\apidocs.html:533
+msgid "Sample Call"
+msgstr ""
+
+#: .\templates\general\apidocs.html:93
+msgid "Scan File API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:94
+msgid "API to scan a file that is already uploaded."
+msgstr ""
+
+#: .\templates\general\apidocs.html:119 .\templates\general\apidocs.html:274
+#: .\templates\general\apidocs.html:343
+msgid "scan_type"
+msgstr ""
+
+#: .\templates\general\apidocs.html:124
+msgid "file_name"
+msgstr ""
+
+#: .\templates\general\apidocs.html:125
+msgid "Name of the app with extension"
+msgstr ""
+
+#: .\templates\general\apidocs.html:129 .\templates\general\apidocs.html:206
+#: .\templates\general\apidocs.html:269 .\templates\general\apidocs.html:338
+#: .\templates\general\apidocs.html:407
+msgid "hash"
+msgstr ""
+
+#: .\templates\general\apidocs.html:130 .\templates\general\apidocs.html:207
+#: .\templates\general\apidocs.html:270 .\templates\general\apidocs.html:339
+#: .\templates\general\apidocs.html:408
+msgid "hash of the scan"
+msgstr ""
+
+#: .\templates\general\apidocs.html:134
+msgid "re_scan"
+msgstr ""
+
+#: .\templates\general\apidocs.html:135
+msgid "0 or 1, default is 0"
+msgstr ""
+
+#: .\templates\general\apidocs.html:136
+msgid "No"
+msgstr ""
+
+#: .\templates\general\apidocs.html:143 .\templates\general\apidocs.html:215
+#: .\templates\general\apidocs.html:283 .\templates\general\apidocs.html:352
+#: .\templates\general\apidocs.html:426 .\templates\general\apidocs.html:499
+msgid "Success Response"
+msgstr ""
+
+#: .\templates\general\apidocs.html:180
+msgid "Delete Scan API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:181
+msgid "API to delete scan results"
+msgstr ""
+
+#: .\templates\general\apidocs.html:243
+msgid "Generate PDF Report API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:244
+msgid "API to generate PDF Report"
+msgstr ""
+
+#: .\templates\general\apidocs.html:312
+msgid "Generate JSON Report API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:313
+msgid "API to generate JSON Report"
+msgstr ""
+
+#: .\templates\general\apidocs.html:370
+msgid "error&quot;: &quot;You are unauthorized to make this request.&quot;"
+msgstr ""
+
+#: .\templates\general\apidocs.html:381
+msgid "View Source Files API"
+msgstr ""
+
+#: .\templates\general\apidocs.html:382
+msgid "API to view source files"
+msgstr ""
+
+#: .\templates\general\apidocs.html:413
+msgid "relative file path"
+msgstr ""
+
+#: .\templates\general\apidocs.html:417
+msgid "type"
+msgstr ""
+
+#: .\templates\general\apidocs.html:460
+#, fuzzy
+#| msgid "Recent Scans"
+msgid "API to Display Recent Scans"
+msgstr "最近的扫描"
+
+#: .\templates\general\apidocs.html:485
+msgid "page"
+msgstr ""
+
+#: .\templates\general\apidocs.html:486
+msgid "the number of page"
+msgstr ""
+
+#: .\templates\general\apidocs.html:490
+msgid "page_size"
+msgstr ""
+
+#: .\templates\general\apidocs.html:491
+msgid "per page size"
+msgstr ""
+
+#: .\templates\general\error.html:11 .\templates\general\ios.html:9
+msgid "Error"
+msgstr ""
+
+#: .\templates\general\index.html:11
+msgid "Mobile Security Framework"
+msgstr ""
+
+#: .\templates\general\index.html:113
+msgid "Upload &amp; Analyze"
+msgstr ""
+
+#: .\templates\general\index.html:130
+msgid "All Rights Reserved"
+msgstr ""
+
+#: .\templates\general\ios.html:10
+msgid "iOS IPA Security Analysis requires Mac or Linux."
+msgstr ""
+
+#: .\templates\general\not_found.html:11
+msgid "Scan Not Found"
+msgstr ""
+
+#: .\templates\general\not_found.html:12
+msgid "We couldn not find a scan matching that MD5!"
+msgstr ""
+
+#: .\templates\general\recent.html:30 .\templates\general\zip.html:11
+#: .\templates\general\zip.html:15 .\templates\general\zip.html:18
+#: .\templates\general\zip.html:21
+#: .\templates\pdf\android_binary_analysis.pdf.html:657
+#: .\templates\pdf\android_binary_analysis.pdf.html:784
+#: .\templates\static_analysis\android_binary_analysis.html:1114
+#: .\templates\static_analysis\android_binary_analysis.html:1219
+msgid "File"
+msgstr ""
+
+#: .\templates\general\recent.html:31
+msgid "Type"
+msgstr ""
+
+#: .\templates\general\recent.html:32
+msgid "Hash"
+msgstr ""
+
+#: .\templates\general\recent.html:33
+msgid "Date"
+msgstr ""
+
+#: .\templates\general\recent.html:34
+#: .\templates\static_analysis\android_binary_analysis.html:306
+#: .\templates\static_analysis\android_binary_analysis.html:321
+#: .\templates\static_analysis\android_binary_analysis.html:336
+#: .\templates\static_analysis\android_binary_analysis.html:351
+msgid "View"
+msgstr ""
+
+#: .\templates\general\recent.html:35
+msgid "Delete"
+msgstr ""
+
+#: .\templates\general\recent.html:54
+msgid "Static Report"
+msgstr ""
+
+#: .\templates\general\recent.html:57
+msgid "Dynamic Report"
+msgstr ""
+
+#: .\templates\general\recent.html:58
+msgid "Diff or Compare"
+msgstr ""
+
+#: .\templates\general\search.html:9
+msgid "You have searched for"
+msgstr ""
+
+#: .\templates\general\search.html:9
+msgid "Found in"
+msgstr ""
+
+#: .\templates\general\search.html:9
+msgid "files"
+msgstr ""
+
+#: .\templates\general\view.html:22
+msgid "Table"
+msgstr ""
+
+#: .\templates\general\zip.html:10
+msgid "Zipped Source Code Instruction"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:15
+msgid "APP SCORE"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:21
+msgid "Average CVSS Score"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:23
+msgid "App Security Score"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:27
+#: .\templates\static_analysis\android_binary_analysis.html:137
+#: .\templates\static_analysis\android_binary_analysis.html:140
+msgid "VirusTotal Detection"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:32
+#: .\templates\static_analysis\android_binary_analysis.html:145
+#: .\templates\static_analysis\android_binary_analysis.html:148
+msgid "Trackers Detection"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:43
+msgid "FILE INFORMATION"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:49
+#: .\templates\pdf\android_binary_analysis.pdf.html:88
+#: .\templates\static_analysis\android_binary_analysis.html:163
+#: .\templates\static_analysis\android_binary_analysis.html:197
+msgid "Name"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:53
+#: .\templates\static_analysis\android_binary_analysis.html:167
+msgid "Size"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:71
+msgid "is_good"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:83
+msgid "APP INFORMATION"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:92
+#: .\templates\static_analysis\android_binary_analysis.html:201
+msgid "Package Name"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:96
+#: .\templates\static_analysis\android_binary_analysis.html:205
+msgid "Main Activity"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:99
+#: .\templates\static_analysis\android_binary_analysis.html:209
+msgid "Target SDK"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:102
+#: .\templates\static_analysis\android_binary_analysis.html:211
+msgid "Min SDK"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:106
+#: .\templates\static_analysis\android_binary_analysis.html:213
+msgid "Max SDK"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:109
+#: .\templates\static_analysis\android_binary_analysis.html:217
+msgid "Android Version Name"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:112
+#: .\templates\static_analysis\android_binary_analysis.html:221
+msgid "Android Version Code"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:125
+msgid "PLAY STORE INFORMATION"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:132
+#: .\templates\static_analysis\android_binary_analysis.html:243
+msgid "Title"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:136
+#: .\templates\static_analysis\android_binary_analysis.html:247
+msgid "Score"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:139
+#: .\templates\static_analysis\android_binary_analysis.html:250
+msgid "Installs"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:142
+#: .\templates\static_analysis\android_binary_analysis.html:253
+msgid "Price"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:145
+#: .\templates\static_analysis\android_binary_analysis.html:256
+msgid "Android Version Support"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:148
+#: .\templates\static_analysis\android_binary_analysis.html:259
+msgid "Category"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:151
+#: .\templates\static_analysis\android_binary_analysis.html:262
+msgid "Play Store URL"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:156
+#: .\templates\static_analysis\android_binary_analysis.html:267
+msgid "Developer Details"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:164
+#: .\templates\static_analysis\android_binary_analysis.html:275
+msgid "Release Date"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:166
+#: .\templates\static_analysis\android_binary_analysis.html:277
+msgid "Privacy Policy"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:167
+#: .\templates\static_analysis\android_binary_analysis.html:278
+msgid "Privacy link"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:170
+#: .\templates\pdf\android_binary_analysis.pdf.html:196
+#: .\templates\pdf\android_binary_analysis.pdf.html:202
+#: .\templates\pdf\android_binary_analysis.pdf.html:206
+#: .\templates\pdf\android_binary_analysis.pdf.html:754
+#: .\templates\static_analysis\android_binary_analysis.html:281
+#: .\templates\static_analysis\android_binary_analysis.html:484
+#: .\templates\static_analysis\android_binary_analysis.html:489
+#: .\templates\static_analysis\android_binary_analysis.html:493
+#: .\templates\static_analysis\android_binary_analysis.html:1074
+msgid "Description"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:186
+msgid "CERTIFICATE"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:193
+#: .\templates\pdf\android_binary_analysis.pdf.html:195
+#: .\templates\pdf\android_binary_analysis.pdf.html:199
+#: .\templates\pdf\android_binary_analysis.pdf.html:201
+#: .\templates\pdf\android_binary_analysis.pdf.html:205
+#: .\templates\static_analysis\android_binary_analysis.html:486
+#: .\templates\static_analysis\android_binary_analysis.html:488
+#: .\templates\static_analysis\android_binary_analysis.html:492
+msgid "Certificate Status"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:193
+msgid "Good"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:195
+#: .\templates\pdf\android_binary_analysis.pdf.html:205
+#: .\templates\static_analysis\android_binary_analysis.html:492
+msgid "Bad"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:196
+msgid "App Signed by \"Android Debug\" Certificate"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:197
+msgid ""
+"Production ready applications should not be signed with \"Android Debug\" "
+"Certificate."
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:199
+#: .\templates\static_analysis\android_binary_analysis.html:486
+msgid "Certificate not found"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:201
+#: .\templates\static_analysis\android_binary_analysis.html:488
+msgid "Warning"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:202
+#: .\templates\pdf\android_binary_analysis.pdf.html:206
+#: .\templates\static_analysis\android_binary_analysis.html:493
+msgid ""
+"The app is signed with `SHA1withRSA`. SHA1 hash algorithm is known to have "
+"collision issues."
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:203
+#: .\templates\static_analysis\android_binary_analysis.html:490
+msgid "Note"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:203
+msgid ""
+"The manifest indicates `SHA256withRSA` is in use. Be sure to manually "
+"confirm this issue."
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:216
+msgid "PERMISSIONS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:223
+#: .\templates\static_analysis\android_binary_analysis.html:514
+msgid "PERMISSION"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:224
+#: .\templates\static_analysis\android_binary_analysis.html:515
+msgid "STATUS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:225
+#: .\templates\static_analysis\android_binary_analysis.html:516
+msgid "INFO"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:226
+#: .\templates\pdf\android_binary_analysis.pdf.html:258
+#: .\templates\pdf\android_binary_analysis.pdf.html:514
+#: .\templates\static_analysis\android_binary_analysis.html:517
+#: .\templates\static_analysis\android_binary_analysis.html:570
+#: .\templates\static_analysis\android_binary_analysis.html:765
+msgid "DESCRIPTION"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:249
+msgid "ANDROID LIBRARY BINARY ANALYSIS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:256
+#: .\templates\pdf\android_binary_analysis.pdf.html:512
+#: .\templates\pdf\android_binary_analysis.pdf.html:563
+#: .\templates\pdf\android_binary_analysis.pdf.html:863
+#: .\templates\static_analysis\android_binary_analysis.html:568
+#: .\templates\static_analysis\android_binary_analysis.html:763
+#: .\templates\static_analysis\android_binary_analysis.html:820
+#: .\templates\static_analysis\android_binary_analysis.html:885
+#: .\templates\static_analysis\android_source_analysis.html:26
+#: .\templates\static_analysis\android_source_analysis.html:27
+#: .\templates\static_analysis\android_source_analysis.html:28
+#: .\templates\static_analysis\android_source_analysis.html:29
+#: .\templates\static_analysis\android_source_analysis.html:30
+#: .\templates\static_analysis\android_source_analysis.html:31
+msgid "ISSUE"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:257
+#: .\templates\pdf\android_binary_analysis.pdf.html:513
+#: .\templates\pdf\android_binary_analysis.pdf.html:564
+#: .\templates\static_analysis\android_binary_analysis.html:569
+#: .\templates\static_analysis\android_binary_analysis.html:764
+#: .\templates\static_analysis\android_binary_analysis.html:821
+msgid "SEVERITY"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:259
+#: .\templates\pdf\android_binary_analysis.pdf.html:568
+#: .\templates\pdf\android_binary_analysis.pdf.html:619
+#: .\templates\pdf\android_binary_analysis.pdf.html:864
+#: .\templates\pdf\android_binary_analysis.pdf.html:991
+#: .\templates\static_analysis\android_binary_analysis.html:571
+#: .\templates\static_analysis\android_binary_analysis.html:639
+#: .\templates\static_analysis\android_binary_analysis.html:825
+#: .\templates\static_analysis\android_binary_analysis.html:886
+msgid "FILES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:271
+#: .\templates\pdf\android_binary_analysis.pdf.html:527
+#: .\templates\pdf\android_binary_analysis.pdf.html:579
+#: .\templates\static_analysis\android_binary_analysis.html:583
+#: .\templates\static_analysis\android_binary_analysis.html:779
+#: .\templates\static_analysis\android_binary_analysis.html:837
+msgid "high"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:273
+#: .\templates\pdf\android_binary_analysis.pdf.html:294
+#: .\templates\pdf\android_binary_analysis.pdf.html:529
+#: .\templates\pdf\android_binary_analysis.pdf.html:585
+#: .\templates\static_analysis\android_binary_analysis.html:585
+#: .\templates\static_analysis\android_binary_analysis.html:606
+#: .\templates\static_analysis\android_binary_analysis.html:781
+#: .\templates\static_analysis\android_binary_analysis.html:843
+msgid "info"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:275
+#: .\templates\pdf\android_binary_analysis.pdf.html:531
+#: .\templates\static_analysis\android_binary_analysis.html:587
+#: .\templates\static_analysis\android_binary_analysis.html:783
+msgid "medium"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:291
+#: .\templates\static_analysis\android_binary_analysis.html:603
+msgid "No issue found"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:312
+#: .\templates\static_analysis\android_binary_analysis.html:998
+msgid "VirusTotal Report"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:315
+#: .\templates\static_analysis\android_binary_analysis.html:1006
+msgid "AVs found this file Malicious!"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:321
+#: .\templates\static_analysis\android_binary_analysis.html:1011
+msgid "AV"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:322
+#: .\templates\static_analysis\android_binary_analysis.html:1012
+msgid "Detection"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:352
+msgid "APKiD ANALYSIS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:359
+#: .\templates\static_analysis\android_binary_analysis.html:920
+msgid "FILE"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:373
+#: .\templates\static_analysis\android_binary_analysis.html:934
+msgid "FINDINGS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:374
+#: .\templates\static_analysis\android_binary_analysis.html:935
+msgid "DETAILS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:382
+#: .\templates\static_analysis\android_binary_analysis.html:943
+msgid "Anti-VM Code"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:384
+#: .\templates\static_analysis\android_binary_analysis.html:945
+msgid "Anti Disassembly Code"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:386
+#: .\templates\static_analysis\android_binary_analysis.html:947
+msgid "Anti Debug Code"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:388
+#: .\templates\static_analysis\android_binary_analysis.html:949
+msgid "Compiler"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:390
+#: .\templates\static_analysis\android_binary_analysis.html:951
+msgid "Abnormal Code"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:392
+#: .\templates\static_analysis\android_binary_analysis.html:953
+msgid "Obfuscator"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:394
+#: .\templates\static_analysis\android_binary_analysis.html:955
+msgid "Protector"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:396
+#: .\templates\static_analysis\android_binary_analysis.html:957
+msgid "Packer Found"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:398
+#: .\templates\static_analysis\android_binary_analysis.html:959
+msgid "Dropper Found"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:400
+#: .\templates\static_analysis\android_binary_analysis.html:961
+msgid "Manipulator Found"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:415
+#: .\templates\static_analysis\android_binary_analysis.html:976
+msgid "APKiD not enabled"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:430
+msgid "BROWSABLE ACTIVITIES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:438
+#: .\templates\static_analysis\android_binary_analysis.html:683
+msgid "ACTIVITY"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:439
+#: .\templates\static_analysis\android_binary_analysis.html:684
+msgid "INTENT"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:448
+#: .\templates\static_analysis\android_binary_analysis.html:693
+msgid "Schemes"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:455
+#: .\templates\static_analysis\android_binary_analysis.html:700
+msgid "Hosts"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:461
+#: .\templates\static_analysis\android_binary_analysis.html:706
+msgid "Ports"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:467
+#: .\templates\static_analysis\android_binary_analysis.html:712
+msgid "Mime Types"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:473
+#: .\templates\static_analysis\android_binary_analysis.html:718
+msgid "Paths"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:479
+#: .\templates\static_analysis\android_binary_analysis.html:724
+msgid "Path Prefixes"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:485
+#: .\templates\static_analysis\android_binary_analysis.html:730
+msgid "Path Patterns"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:504
+msgid "MANIFEST ANALYSIS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:556
+msgid "CODE ANALYSIS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:565
+#: .\templates\static_analysis\android_binary_analysis.html:822
+msgid "CVSS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:566
+#: .\templates\static_analysis\android_binary_analysis.html:823
+msgid "CWE"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:567
+#: .\templates\static_analysis\android_binary_analysis.html:824
+msgid "OWASP"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:581
+#: .\templates\static_analysis\android_binary_analysis.html:839
+msgid "secure"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:583
+#: .\templates\static_analysis\android_binary_analysis.html:841
+msgid "warning"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:610
+msgid "ANDROID API"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:688
+msgid "FIREBASE DATABASES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:697
+#: .\templates\static_analysis\android_binary_analysis.html:1165
+msgid "Database URL"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:712
+msgid "insecure"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:712
+msgid "Firebase DB is exposed publically"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:714
+msgid "Info"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:714
+msgid "App talks to a Firebase Database"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:731
+msgid "MALWARE CHECK"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:739
+#: .\templates\static_analysis\android_binary_analysis.html:1059
+msgid "Domain"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:740
+#: .\templates\static_analysis\android_binary_analysis.html:1060
+msgid "Status"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:750
+#: .\templates\static_analysis\android_binary_analysis.html:1070
+msgid "malware"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:753
+#: .\templates\static_analysis\android_binary_analysis.html:1073
+msgid "IP"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:757
+msgid "good"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:775
+msgid "EMAILS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:783
+#: .\templates\static_analysis\android_binary_analysis.html:1218
+msgid "Email"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:816
+msgid "TRACKERS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:825
+msgid "Tracker Name"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:855
+msgid "FILE ANALYSIS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:879
+msgid "STRINGS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:902
+#: .\templates\static_analysis\android_binary_analysis.html:301
+msgid "ACTIVITIES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:920
+#: .\templates\static_analysis\android_binary_analysis.html:346
+msgid "PROVIDERS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:938
+#: .\templates\static_analysis\android_binary_analysis.html:331
+msgid "RECEIVERS"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:956
+#: .\templates\static_analysis\android_binary_analysis.html:316
+msgid "SERVICES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:974
+msgid "LIBRARIES"
+msgstr ""
+
+#: .\templates\pdf\android_binary_analysis.pdf.html:1008
+msgid "Report Generated"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:28
+#: .\templates\static_analysis\android_binary_analysis.html:1181
+#: .\templates\static_analysis\android_binary_analysis.html:1183
+msgid "Information"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:29
+#: .\templates\static_analysis\android_binary_analysis.html:431
+msgid "Scan Options"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:30
+#: .\templates\static_analysis\android_binary_analysis.html:476
+msgid "Signer Certificate"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:31
+msgid "Permissions"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:32
+msgid "Binary Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:34
+#: .\templates\static_analysis\android_binary_analysis.html:630
+msgid "Android API"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:35
+#: .\templates\static_analysis\android_binary_analysis.html:675
+msgid "Browsable Activities"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:38
+msgid "Security Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:40
+#: .\templates\static_analysis\android_binary_analysis.html:755
+msgid "Manifest Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:42
+#: .\templates\static_analysis\android_binary_analysis.html:812
+msgid "Code Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:43
+#: .\templates\static_analysis\android_binary_analysis.html:877
+msgid "File Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:48
+msgid "Malware Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:50
+#: .\templates\static_analysis\android_binary_analysis.html:913
+msgid "APKiD Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:52
+msgid "Virus Total"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:54
+msgid "Domain Malware Check"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:59
+msgid "Reconnaissance"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:61
+msgid "URLs"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:62
+msgid "Firebase DB"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:63
+#: .\templates\static_analysis\android_binary_analysis.html:1209
+msgid "Emails"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:64
+#: .\templates\static_analysis\android_binary_analysis.html:1258
+msgid "Trackers"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:65
+#: .\templates\static_analysis\android_binary_analysis.html:1304
+msgid "Strings"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:70
+msgid "Components"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:72
+#: .\templates\static_analysis\android_binary_analysis.html:366
+#: .\templates\static_analysis\android_binary_analysis.html:1333
+msgid "Activities"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:73
+#: .\templates\static_analysis\android_binary_analysis.html:379
+#: .\templates\static_analysis\android_binary_analysis.html:1360
+msgid "Services"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:74
+#: .\templates\static_analysis\android_binary_analysis.html:396
+msgid "Receivers"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:75
+#: .\templates\static_analysis\android_binary_analysis.html:409
+msgid "Providers"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:76
+#: .\templates\static_analysis\android_binary_analysis.html:1439
+msgid "Libraries"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:77
+#: .\templates\static_analysis\android_binary_analysis.html:1463
+msgid "Files"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:80
+msgid " PDF Report"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:81
+msgid " Print Report"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:83
+msgid " Dynamic Analysis Report"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:85
+#: .\templates\static_analysis\android_binary_analysis.html:438
+msgid "Start Dynamic Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:92
+msgid "MobSF Static Analysis Report"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:107
+msgid "App Icon"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:120
+msgid "Hidden Icon"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:127
+msgid "App Score"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:132
+msgid "Average CVSS"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:133
+msgid "Security Score"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:157
+msgid "File Information"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:171
+msgid "MD5"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:175
+msgid "SHA1"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:179
+msgid "SHA256"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:191
+msgid "App Information"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:224
+msgid "intellectual analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:236
+msgid "Play Store Information"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:366
+#: .\templates\static_analysis\android_binary_analysis.html:379
+#: .\templates\static_analysis\android_binary_analysis.html:396
+#: .\templates\static_analysis\android_binary_analysis.html:409
+msgid "Exported"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:436
+msgid "Rescan"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:447
+msgid "View Code"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:451
+msgid "View Java"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:452
+msgid " Download Java Code"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:454
+msgid "View Smali"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:455
+msgid "Download Smali Code"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:458
+msgid "View AndroidManifest.xml"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:484
+msgid ""
+"App Signed by \"Android Debug\" Certificate.Production ready applications "
+"should not be signed with \"Android Debug\" Certificate."
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:489
+msgid ""
+"The app is signed with `SHA1withRSA`. SHA1 hash algorithm is known to have "
+"collision issues"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:490
+msgid ""
+"The manifest indicates `SHA256withRSA` is in use. Be sure to manually "
+"confirm this issue"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:507
+msgid "Android Permissions"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:527
+msgid "dangerous"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:529
+msgid "normal"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:531
+msgid "SignatureOrSystem"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:533
+msgid "signature"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:561
+msgid "Android Library Binary Analysis"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:638
+msgid "API"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1006
+msgid "Full Report"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1050
+msgid "Malware Check"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1156
+msgid "Firebase Databases"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1166
+msgid "Details"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1181
+msgid "Firebase DB is exposed publically."
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1183
+msgid "App talks to a Firebase Database."
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1386
+msgid "Broadcast Receivers"
+msgstr ""
+
+#: .\templates\static_analysis\android_binary_analysis.html:1413
+msgid "Content Providers"
+msgstr ""

@@ -1,0 +1,15 @@
+
+
+  {% extends "base_top_only.html" %}
+   {% block content %}
+    {% load i18n %}
+
+<div class="box box-default">
+          <div class="box-body">
+             <h1> {%trans 'Error' %}Requires Mac or Linux.</h1>
+             <p class="lead"> {%trans 'iOS IPA Security Analysis requires Mac or Linux.' %} </p>
+            
+          </div>
+          <!-- /.box-body -->
+        </div>
+{% endblock %}
