@@ -1,4 +1,5 @@
 # Mobile Security Framework (MobSF)
+#用python manage.py compilemessages 命令编译汉化文件。
 Version: v2.0 beta
 ![](https://cloud.githubusercontent.com/assets/4301109/20019521/cc61f7fc-a2f2-11e6-95f3-407030d9fdde.png)
 
